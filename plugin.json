@@ -1,0 +1,16 @@
+{
+  "slug": "subhedral",
+  "name": "subhedral",
+  "version": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "brand": "subhedral",
+  "author": "Jonathan Scott",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "https://github.com/j-s-c-o/subhedral-vcv",
+  "manualUrl": "https://github.com/j-s-c-o/subhedral-vcv",
+  "sourceUrl": "https://github.com/j-s-c-o/subhedral-vcv",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": []
+}
